@@ -2,7 +2,7 @@
 
 The program checks whether an interruption occurred before executing the first option of the ADC command, if so, it displays a warning on the screen and all of the information about the command: 
 
-address, code, mnemonic, operands.
+Address, code, mnemonic, operands.
 
 Example: The information displayed on the screen could look like this: 
 
